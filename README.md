@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chinmaykolhatkar
 - 👀 I’m interested in Big Data Analytics | Opensource Savvy | Distributed Systems | Kubernetes | Microservices | Cloud Tech | Startups | Stream/Batch Processing
 - 💞️ I’m looking to collaborate on Apache Druid, Apache Superset and general opensource project.
-- 📫 You can reach me over email chinmaykolhatkar01@gmail.com
+- 📫 You can reach me over email chinmaykolhatkar01@gmail.com or chinmay@apache.org
 
 <!---
 chinmaykolhatkar/chinmaykolhatkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
